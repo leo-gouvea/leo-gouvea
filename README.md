@@ -82,7 +82,7 @@ Me chamo Leonardo José Alves Gouvea, tenho 18 anos e sou natural de São Bernar
 </table>
 
 <h2 align="left" style="font-size: 36px"><i>📊 Estatísticas</i></h2>
-
+![Stats](./profile/stats.svg)
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=leo-gouvea&show_icons=true&theme=tokyonight" 
