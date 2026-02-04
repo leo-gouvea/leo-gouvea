@@ -80,11 +80,26 @@ Me chamo Leonardo José Alves Gouvea, tenho 18 anos e sou natural de São Bernar
     </td>
   </tr>
 </table>
+<br><br>
 
-<h2 align="left" style="font-size: 36px"><i>📊 Estatísticas</i></h2>
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=leo-gouvea&show_icons=true&theme=tokyonight" 
-    alt="GitHub Stats - Leonardo Gouvea"
-  />
-</p>
+
+<!-- CONTATO -->
+
+<h2 align="left" style="font-size:36px"><i>📞 Contato 📞</i></h2>
+<div align="center" >
+  <a href="https://drive.google.com/file/d/11iErmG4TrU7P1nRLzweeqcb8utS-5k2e/view?usp=sharing" alt="curriculo">
+    <img src="./images/button/curriculo.svg" alt="curriculo">
+  </a>
+  <a href = "leonardo.j.gouvea@outlook.com" alt="e-mail"><img src="./images/button/e-mail.svg" target="_blank">
+  </a> 
+  <a href="https://github.com/leo-gouvea" alt="portfolio" target="_blank">
+    <img src="./images/button/portfolio.svg" alt="portfolio">
+  </a> 
+  <a href="https://www.linkedin.com/in/leonardo-gouvea-ti" alt="linkedin" target="_blank">
+    <img src="./images/button/linkedin.svg" alt="linkedin">
+  </a>
+  <a href="https://wa.me/5511942682040" alt="whatsapp" target="_blank">
+    <img src="./images/button/whatsapp.svg" alt="whatsapp">
+  </a>
+</div>
+<br>
