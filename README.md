@@ -90,7 +90,7 @@ Me chamo Leonardo José Alves Gouvea, tenho 18 anos e sou natural de São Bernar
   <a href="https://drive.google.com/file/d/11iErmG4TrU7P1nRLzweeqcb8utS-5k2e/view?usp=sharing" alt="curriculo">
     <img src="./images/button/curriculo.svg" alt="curriculo">
   </a>
-  <a href = "leonardo.j.gouvea@outlook.com" alt="e-mail"><img src="./images/button/e-mail.svg" target="_blank">
+  <a href = "mailto:leonardo.j.gouvea@outlook.com" alt="e-mail"><img src="./images/button/e-mail.svg" target="_blank">
   </a> 
   <a href="https://github.com/leo-gouvea" alt="portfolio" target="_blank">
     <img src="./images/button/portfolio.svg" alt="portfolio">
