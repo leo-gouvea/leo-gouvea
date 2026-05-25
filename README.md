@@ -3,7 +3,7 @@
 <h2 align="left" style="font-size: 36px">📋 <i>Sobre</i> 📋</h2>
 
 <p>
-Me chamo Leonardo José Alves Gouvea, tenho 18 anos e sou natural de São Bernardo do Campo/SP. Concluí o ensino médio na ETEC Lauro Gomes, com o curso técnico em eletrônica, onde além de me expor às engenherias elétricas com sistemas embarcados aos poucos fui me interessando em entender como algoritmos e tecnologia fazem a diferença no mundo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FSA.
+Me chamo Leonardo José Alves Gouvea, sou natural de São Bernardo do Campo/SP. Concluí o ensino médio na ETEC Lauro Gomes, com o curso técnico em eletrônica, onde além de me expor às engenherias elétricas com sistemas embarcados aos poucos fui me interessando em entender como algoritmos e tecnologia fazem a diferença no mundo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FSA.
 
 Exposto à tecnologia desde os 4 anos de idade, minha missão é trazer liberdade através do código, e transformar o mundo com isso.
 </p>
