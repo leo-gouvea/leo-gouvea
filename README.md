@@ -8,7 +8,7 @@ Me chamo Leonardo José Alves Gouvea, tenho 18 anos e sou natural de São Bernar
 Exposto à tecnologia desde os 4 anos de idade, minha missão é trazer liberdade através do código, e transformar o mundo com isso.
 </p>
 
-<p align="center">💻 Front - Back - IA - Cyber 💻</p>
+<p align="center">💻 Front - Back - IA</p>
 
 <h2 align="left" style="font-size: 36px"><i>🛠️ Tecnologias 🛠️</i></h2>
 
@@ -57,6 +57,10 @@ Exposto à tecnologia desde os 4 anos de idade, minha missão é trazer liberdad
     </td>
         <td align="center">
       <img src="https://skillicons.dev/icons?i=java" width="65px"/><br><sub><b>Java</b></sub>
+    </td>
+        </td>
+        <td align="center">
+      <img src="https://skillicons.dev/icons?i=php" width="65px"/><br><sub><b>PHP</b></sub>
     </td>
   </tr>
 </table>
