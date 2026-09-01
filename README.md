@@ -99,8 +99,3 @@ O que busco agora é uma vaga onde eu possa aplicar essa combinação (código, 
 - 📫 Contato: leonardo.j.gouvea@outlook.com · (11) 94268-2040
 
 ---
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=leo-gouvea&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leo-gouvea&layout=compact&theme=default&hide_border=true" height="165"/>
-</p>
