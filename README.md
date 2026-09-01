@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Leonardo</h1>
-<h3 align="center">Desenvolvedor Full Stack Jr. | Automação com IA | Dados</h3>
+<h3 align="center">Desenvolvedor Full Stack Jr. | Automação com IA | Análise de Dados</h3>
 
 <p align="center">
   <a href="mailto:leonardo.j.gouvea@outlook.com"><img src="https://img.shields.io/badge/Email-leonardo.j.gouvea%40outlook.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
