@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Full Stack Jr. | Automação com IA | Dados</h3>
 
 <p align="center">
-Estudante de Análise e Desenvolvimento de Sistemas (FSA) construindo software de ponta a ponta — do front-end à automação de processos com LLMs. Já entreguei pipeline de IA em produção para cliente real durante estágio formal, e projetos full stack cobrindo CRUD, SPA e dashboards.
+Estudante de Análise e Desenvolvimento de Sistemas (FSA) construindo software do front-end à automação de processos com LLMs. Já entreguei pipeline de IA em produção para cliente real durante estágio formal, além de projetos full stack cobrindo CRUD, SPA e dashboards.
 </p>
 
 <p align="center">
@@ -16,24 +16,24 @@ Estudante de Análise e Desenvolvimento de Sistemas (FSA) construindo software d
 
 ### 🚀 Projetos em destaque
 
-**[Fundo Mágico](https://github.com/leo-gouvea/fundo-magico)** — Agente de IA generativa que cria fundos dinâmicos a partir de prompts do usuário.
-Pipeline próprio: n8n rodando em Docker → Groq API → JSON renderizado direto no DOM. Reconstruído do zero depois de uma queda de infraestrutura e hoje roda 100% gratuito em produção.
-`n8n` `Docker` `Groq API` `JavaScript` `Railway`
+**[Fundo Mágico](https://github.com/leo-gouvea/fundo-magico)**: agente de IA generativa que cria fundos dinâmicos a partir de prompts do usuário.
+Pipeline próprio: n8n em Docker chama a Groq API e devolve um JSON renderizado direto no DOM. Reconstruí o projeto do zero depois de uma queda de infraestrutura, e ele está passando por uma segunda reconstrução agora, migrando de container 24/7 para função serverless, justamente para não depender de plano gratuito com limite de horas.
+`n8n` `Docker` `Groq API` `JavaScript`
 
-**[Customer Shopping Behavior Analysis](https://github.com/leo-gouvea)** — Análise de padrões de comportamento de compra a partir de dataset real.
-Limpeza e tratamento com Python/Pandas, consultas SQL em PostgreSQL e dashboard interativo em Power BI para tradução dos achados em decisão de negócio.
+**[Customer Shopping Behavior Analysis](https://github.com/leo-gouvea)**: análise de padrões de comportamento de compra a partir de dataset real.
+Limpeza e tratamento com Python e Pandas, consultas SQL em PostgreSQL e dashboard interativo em Power BI para transformar os achados em decisão de negócio.
 `Python` `SQL` `PostgreSQL` `Power BI`
 
-**[Entrelinhas — Você Reconheceria?](https://github.com/leo-gouvea/entrelinhas-quiz)** — Quiz educacional sobre reconhecimento de violência de gênero disfarçada no cotidiano.
-JS puro no front, Canvas API para gerar imagem de compartilhamento, e Google Sheets + Apps Script como backend gratuito que calcula em tempo real a média de acertos da comunidade. Projeto de maior impacto social do portfólio.
+**[Entrelinhas: Você Reconheceria?](https://github.com/leo-gouvea/entrelinhas-quiz)**: quiz educacional sobre reconhecimento de violência de gênero disfarçada no cotidiano.
+JavaScript puro no front, Canvas API para gerar a imagem de compartilhamento e Google Sheets com Apps Script como backend gratuito que calcula em tempo real a média de acertos da comunidade. É o projeto que mais me orgulha no portfólio, porque nasceu de um problema social real, não de um exercício de curso.
 `JavaScript` `Canvas API` `Google Apps Script`
 
-**[Transportadora & Logística](https://github.com/leo-gouvea/transportadora-logistica-crud)** — Sistema CRUD completo para gestão de entregas, motoristas e veículos.
-Autenticação administrativa, schema SQL versionado, front em Bootstrap. Prova de fullstack tradicional fora do universo low-code.
+**[Transportadora & Logística](https://github.com/leo-gouvea/transportadora-logistica-crud)**: sistema CRUD completo para gestão de entregas, motoristas e veículos.
+Autenticação administrativa e schema SQL versionado, com front em Bootstrap. Mostra fullstack tradicional fora do universo low-code e automação.
 `PHP` `MySQL` `JavaScript` `Bootstrap`
 
-**[Busca Filmes](https://github.com/leo-gouvea/busca-filmes)** — SPA de busca de filmes consumindo a API do TMDB.
-Estado global com Context API, roteamento com React Router, tratamento completo de estados assíncronos (loading, erro, vazio).
+**[Busca Filmes](https://github.com/leo-gouvea/busca-filmes)**: SPA de busca de filmes consumindo a API do TMDB.
+Estado global com Context API, roteamento com React Router e tratamento completo de estados assíncronos: carregando, erro, vazio.
 `React` `Context API` `React Router`
 
 ---
@@ -42,46 +42,54 @@ Estado global com Context API, roteamento com React Router, tratamento completo 
 
 **Front-end**
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" height="48"/>
 </p>
 
-**Back-end & Automação**
+**Back-end & linguagens**
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,php" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,php" height="48"/>
 </p>
 
-**IA & Automação de processos**
+**IA & automação de processos**
 <p>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-4B2E83?style=flat"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/GPT-412991?style=flat&logo=openai&logoColor=white"/>
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" height="40"/>
+<img src="https://cdn.simpleicons.org/googlegemini/4285F4" height="40"/>
+<img src="https://cdn.simpleicons.org/openai/412991" height="40"/>
+<img src="https://cdn.simpleicons.org/claude/D97757" height="40"/>
 </p>
+<sub>também na stack: prompt engineering para output estruturado (JSON) e Groq API</sub>
 
 **Dados & BI**
 <p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/ERP%20TOTVS%20RM-116466?style=flat"/>
-<img src="https://img.shields.io/badge/Excel%20Avançado-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="48"/>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40"/>
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40"/>
 </p>
+<sub>também na stack: ERP TOTVS RM (uso operacional real, em ambiente corporativo)</sub>
 
 **Ferramentas**
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vite" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vite" height="48"/>
 </p>
 
 ---
 
 ### 📌 Sobre mim
 
-Comecei na eletrônica e sistemas embarcados (Técnico ETEC Lauro Gomes) e migrei para desenvolvimento de software durante o Tecnólogo em ADS. Hoje minha atuação principal é **full stack + automação com IA**, com uma frente sólida em **análise de dados** e uma base prática em **suporte técnico de TI** (atendimento direto, diagnóstico de hardware/software/redes, há mais de 3 anos).
+Minha entrada em tecnologia não foi um plano de carreira, foi curiosidade desde criança. Cresci mexendo em qualquer aparelho que pudesse ser aberto, e isso me levou ao curso técnico em Eletrônica na ETEC Lauro Gomes, integrado ao ensino médio. Foi ali, estudando sistemas embarcados, que percebi que o que eu realmente queria entender não era o hardware em si, mas a lógica que roda dentro dele. Software virou o caminho natural.
 
-- 🔭 Trabalhando atualmente como Auxiliar de Logística no Grupo Casas Bahia, operando ERP TOTVS RM em ambiente corporativo de alto volume
-- 💼 Estágio formal em Desenvolvimento de Automação (Empresa Cafezinho): pipeline com LLMs e n8n em produção para cliente real
-- 🎓 Cursando Análise e Desenvolvimento de Sistemas — Centro Universitário Fundação Santo André
-- 📫 Contato: leonardo.j.gouvea@outlook.com | (11) 94268-2040
+Hoje curso Análise e Desenvolvimento de Sistemas na Fundação Santo André, à noite, enquanto trabalho de dia como Auxiliar de Logística no Grupo Casas Bahia, operando ERP TOTVS RM em ambiente corporativo de alto volume. Não é a vaga dos sonhos, mas virei referência informal no setor para dúvidas de gestão de usuários, níveis de acesso e pequenos incidentes de TI, e isso me mostrou que suporte técnico não é um degrau qualquer: é onde eu aprendi a resolver problema real sob pressão, com gente esperando resposta.
+
+O momento que mais me definiu profissionalmente até agora foi o estágio de Desenvolvimento de Automação na Empresa Cafezinho. Não foi projeto de curso, foi cliente real esperando entrega. Construí um pipeline no n8n que integra a Meta Graph API e scripts em Python para automatizar postagem e agendamento no Instagram, e também um fluxo separado com prompt engineering sobre o Google Gemini, forçando saída em JSON estruturado para eliminar quase toda a intervenção manual do processo. Foi a primeira vez que vi, na prática, o que automação bem feita com IA consegue tirar do caminho de uma equipe pequena.
+
+Isso me puxou de vez para a interseção entre full stack e automação com IA, que é onde quero construir carreira. Mas o projeto que mais me representa como pessoa é o Entrelinhas: Você Reconheceria?, um quiz educacional sobre reconhecimento de violência de gênero disfarçada no cotidiano, feito com JavaScript puro, Canvas API e um backend gratuito rodando em Google Apps Script. Ninguém me pediu para fazer, eu quis. Se código pode ajudar alguém a reconhecer um padrão de abuso antes que seja tarde, isso vale mais do que qualquer linha bonita no currículo.
+
+É essa mistura que eu quero levar para uma equipe: raciocínio de dados, prática de automação com LLMs, base de suporte que ensina a resolver problema de gente de verdade, e a teimosia de construir coisa que importa mesmo sem ninguém pedir.
+
+- 🔭 Atualmente: Auxiliar de Logística no Grupo Casas Bahia, ERP TOTVS RM
+- 💼 Estágio formal: Desenvolvimento de Automação na Empresa Cafezinho, pipeline com LLMs e n8n em produção
+- 🎓 Cursando: Análise e Desenvolvimento de Sistemas, Centro Universitário Fundação Santo André
+- 📫 Contato: leonardo.j.gouvea@outlook.com · (11) 94268-2040
 
 ---
 
