@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Leonardo</h1>
-<h3 align="center">Desenvolvedor Full Stack Jr. | Automação com IA | Análise de Dados</h3>
+<h3 align="center">Desenvolvedor Full Stack Jr. | Automação com IA | Dados</h3>
 
 <p align="center">
   <a href="mailto:leonardo.j.gouvea@outlook.com"><img src="https://img.shields.io/badge/Email-leonardo.j.gouvea%40outlook.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
@@ -12,36 +12,47 @@
 
 ### 🛠️ Stack
 
-**Front-end**
-<p>
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind" height="48"/>
+<p align="center">
+<b>Front-end</b><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
-**Back-end & linguagens**
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,php" height="48"/>
+<p align="center">
+<b>Back-end & linguagens</b><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
 </p>
 
-**IA & automação de processos**
-<p>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/n8n.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/googlegemini.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/anthropic.svg" height="40"/>
+<p align="center">
+<b>IA & automação de processos</b><br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white"/>
 </p>
-<sub>também na stack: prompt engineering para output estruturado (JSON) e Groq API</sub>
+<p align="center"><sub>também na stack: prompt engineering para output estruturado (JSON) e Groq API</sub></p>
 
-**Dados & BI**
-<p>
-<img src="https://skillicons.dev/icons?i=postgres" height="48"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powerbi.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftexcel.svg" height="40"/>
+<p align="center">
+<b>Dados & BI</b><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 </p>
-<sub>também na stack: ERP TOTVS RM (uso operacional real, em ambiente corporativo)</sub>
+<p align="center"><sub>também na stack: ERP TOTVS RM (uso operacional real, em ambiente corporativo)</sub></p>
 
-**Ferramentas**
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vite" height="48"/>
+<p align="center">
+<b>Ferramentas</b><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
 </p>
 
 ---
