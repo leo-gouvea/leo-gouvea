@@ -59,10 +59,6 @@
 
 ### 🚀 Projetos em destaque
 
-**[Fundo Mágico](https://github.com/leo-gouvea/fundo-magico)**: agente de IA generativa que cria fundos dinâmicos a partir de prompts do usuário.
-Pipeline próprio: n8n em Docker chama a Groq API e devolve um JSON renderizado direto no DOM. Reconstruí o projeto do zero depois de uma queda de infraestrutura, e ele está passando por uma segunda reconstrução agora, migrando de container 24/7 para função serverless, justamente para não depender de plano gratuito com limite de horas.
-`n8n` `Docker` `Groq API` `JavaScript`
-
 **[Customer Shopping Behavior Analysis](https://github.com/leo-gouvea)**: análise de padrões de comportamento de compra a partir de dataset real.
 Limpeza e tratamento com Python e Pandas, consultas SQL em PostgreSQL e dashboard interativo em Power BI para transformar os achados em decisão de negócio.
 `Python` `SQL` `PostgreSQL` `Power BI`
@@ -78,6 +74,10 @@ Autenticação administrativa e schema SQL versionado, com front em Bootstrap. M
 **[Busca Filmes](https://github.com/leo-gouvea/busca-filmes)**: SPA de busca de filmes consumindo a API do TMDB.
 Estado global com Context API, roteamento com React Router e tratamento completo de estados assíncronos: carregando, erro, vazio.
 `React` `Context API` `React Router`
+
+**[Fundo Mágico](https://github.com/leo-gouvea/fundo-magico)**: agente de IA generativa que cria fundos dinâmicos a partir de prompts do usuário.
+Pipeline próprio: n8n em Docker chama a Groq API e devolve um JSON renderizado direto no DOM. Reconstruí o projeto do zero depois de uma queda de infraestrutura, e ele está passando por uma segunda reconstrução agora, migrando de container 24/7 para função serverless, justamente para não depender de plano gratuito com limite de horas.
+`n8n` `Docker` `Groq API` `JavaScript`
 
 ---
 
